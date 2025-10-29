@@ -1,1 +1,1 @@
-# groupKTPproject
+# Dự án nhóm <number> - README
