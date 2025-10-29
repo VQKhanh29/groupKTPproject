@@ -1,1 +1,1 @@
-# Dự án nhóm <number> - README
+# Backend - Group Project
